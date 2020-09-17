@@ -1,4 +1,4 @@
-# recyclerview vs listview
+# Recyclerview or listview
 
 Example of ListView and RecyclerView for a simple list of items.
 
